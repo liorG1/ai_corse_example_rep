@@ -1,0 +1,12 @@
+p{
+    color: red;
+    font-weight: bold;
+}
+
+.u_list{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.o_list{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
